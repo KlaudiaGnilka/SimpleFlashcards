@@ -35,5 +35,27 @@ The level increases when the user collects 100 points. When level change points 
 
 ## Screenshots
 
+### Main menu
 
+![Screenshot from 2024-01-18 15-09-22](https://github.com/KlaudiaGnilka/SimpleFlashcards/assets/134264753/c29b1214-bddc-42b9-a4a6-2ce8b5c421a9)
+
+### Adding new flashcard
+
+  ![Screenshot from 2024-01-18 15-10-34](https://github.com/KlaudiaGnilka/SimpleFlashcards/assets/134264753/67c2e8cf-c427-406a-b26b-ac4f3674f83e)
+
+### Puzzle exercise
   
+  ![Screenshot from 2024-01-18 15-13-16](https://github.com/KlaudiaGnilka/SimpleFlashcards/assets/134264753/b567c26a-400f-4883-b596-241016f135fd)
+
+### Test exercise
+  
+![Screenshot from 2024-01-18 15-14-43](https://github.com/KlaudiaGnilka/SimpleFlashcards/assets/134264753/94f2da16-4ace-48e9-8f96-e7dc579b74ac)
+
+### Statistics 
+
+![Screenshot from 2024-01-18 15-15-13](https://github.com/KlaudiaGnilka/SimpleFlashcards/assets/134264753/0ff4e3d1-3c8f-4472-ac9d-1c73baa2dae3)
+
+
+
+
+
